@@ -1,6 +1,7 @@
-function Counter(){
+function Counter(props){
+ 
   return(
-        <h1>0</h1>
+        <h1>{props.counter}</h1>
      )  
 }
 export default Counter;

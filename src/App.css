@@ -28,5 +28,13 @@
   background-color: yellow;
   color: black;
   transition: 1s;
+  cursor: pointer;
   
+}
+
+.button-2:hover{
+  background-color:darkblue;
+  color: white;
+  transition: 1s;
+  cursor: pointer;
 }
