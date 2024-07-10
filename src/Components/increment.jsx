@@ -1,4 +1,4 @@
-function Increment(props) {
+function Increment(props){
 
   //This increases the value
   const increment = () => {

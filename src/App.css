@@ -25,7 +25,7 @@
 }
 
 .button-1:hover{
-  background-color: yellow;
+  background-color: white;
   color: black;
   transition: 1s;
   cursor: pointer;
@@ -33,7 +33,7 @@
 }
 
 .button-2:hover{
-  background-color:darkblue;
+  background-color:black;
   color: white;
   transition: 1s;
   cursor: pointer;
